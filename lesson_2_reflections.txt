@@ -11,3 +11,6 @@ I only add files that I am sure will make a logical change from the working dire
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 If I want to make experimental changes, but I would like to keep the original not intact this would helpful
+
+How do the diagrams help you visualize the branch structure?
+By making it easier to see the whole history of the structure 
