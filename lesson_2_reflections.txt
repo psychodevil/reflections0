@@ -14,3 +14,6 @@ If I want to make experimental changes, but I would like to keep the original no
 
 How do the diagrams help you visualize the branch structure?
 By making it easier to see the whole history of the structure 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Adding the lines that were added to both branches and deleting the lines that were deleted from both
